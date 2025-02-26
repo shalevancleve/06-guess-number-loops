@@ -1,1 +1,2 @@
-# 06-guess-number-loops
+# Guess the Number JavaScript Game
+To get started, create a new Codespace from this repo.
